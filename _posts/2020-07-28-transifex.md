@@ -19,14 +19,13 @@ Transifex 에 참여하려면?
 [https://www.transifex.com/home/](https://www.transifex.com/home/)
 
 2. 
-![image](https://www.notion.so/Transifex-ac26939e38ea41bba0601e424d8b38d8#f07b11571cad4664a27fccfaa3e9d896)
+![Untitled](https://user-images.githubusercontent.com/55476302/88620485-1d85a580-d0d9-11ea-855a-fd116c8d72be.png)
 
 
 위 화면에서 Join an existing organization 클릭하여 기존 프로젝트들 보기
 
 3. 
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bf149aa5-854b-4fa9-94ac-fe1e6400afb1/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bf149aa5-854b-4fa9-94ac-fe1e6400afb1/Untitled.png)
+![Untitled (1)](https://user-images.githubusercontent.com/55476302/88620561-502f9e00-d0d9-11ea-8aa0-762127a383ce.png)
 
 참여하고 싶은 프로젝트를 클릭해 아래 언어들의 현지화 진행 상태를 확인한다.
 
@@ -34,7 +33,7 @@ Transifex 에 참여하려면?
 
 4. 해당 기업에서 나의 참여를 수락하면 아래와 같은 notifications 를 받게 된다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4edbac47-33f8-4a0d-80dd-af66f7e4282a/.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4edbac47-33f8-4a0d-80dd-af66f7e4282a/.png)
+![1233](https://user-images.githubusercontent.com/55476302/88621140-a94c0180-d0da-11ea-82d7-b9f4cf1e0bae.png)
 
 5. 해당 프로젝트로 이동한다.
 
