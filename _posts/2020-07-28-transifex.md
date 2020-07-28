@@ -62,7 +62,7 @@ Transifex 에 참여하려면?
 
 ![6](https://user-images.githubusercontent.com/55476302/88621718-26c44180-d0dc-11ea-9149-77bec57643f2.png)
 
-![_untranslated](https://user-images.githubusercontent.com/55476302/88621907-86225180-d0dc-11ea-934b-92cc9052d78e.png
+![_untranslated](https://user-images.githubusercontent.com/55476302/88621907-86225180-d0dc-11ea-934b-92cc9052d78e.png)
 
 9. 오른쪽 섹션의 History 를 클릭하여 번역 제안의 기록을 열람할 수 있다.
 
