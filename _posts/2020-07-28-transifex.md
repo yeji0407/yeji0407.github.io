@@ -5,14 +5,14 @@ categories: open source
 ---
 
 
-# Transifex 란?
+### Transifex 란?
 
 세계화 관리 시스템이라고도 알려진, 웹 기반의 번역 플랫폼이다.
 
 여러 기업에서 진행중인 프로젝트의 현지화 작업에 참여할 수 있다.
 
 <br/><br/><br/><br/>
-# Transifex 에 참여하려면?
+### Transifex 에 참여하려면?
 <br/>
 1) Transifex 사이트에 가입을 한다.
 
