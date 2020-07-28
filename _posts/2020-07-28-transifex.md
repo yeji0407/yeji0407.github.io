@@ -19,7 +19,7 @@ Transifex 에 참여하려면?
 [https://www.transifex.com/home/](https://www.transifex.com/home/)
 
 2. 
-![image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/309289a3-4fdb-40a9-8656-e182267b880c/Untitled.png)
+![image](https://www.notion.so/Transifex-ac26939e38ea41bba0601e424d8b38d8#f07b11571cad4664a27fccfaa3e9d896)
 
 
 위 화면에서 Join an existing organization 클릭하여 기존 프로젝트들 보기
