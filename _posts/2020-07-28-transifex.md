@@ -18,13 +18,18 @@ Transifex 에 참여하려면?
 
 [https://www.transifex.com/home/](https://www.transifex.com/home/)
 
+
 2. 
+
+
 ![Untitled](https://user-images.githubusercontent.com/55476302/88620485-1d85a580-d0d9-11ea-855a-fd116c8d72be.png)
 
 
 위 화면에서 Join an existing organization 클릭하여 기존 프로젝트들 보기
 
 3. 
+
+
 ![Untitled (1)](https://user-images.githubusercontent.com/55476302/88620561-502f9e00-d0d9-11ea-8aa0-762127a383ce.png)
 
 참여하고 싶은 프로젝트를 클릭해 아래 언어들의 현지화 진행 상태를 확인한다.
@@ -32,6 +37,7 @@ Transifex 에 참여하려면?
 내가 번역하고 싶은 언어가 미완료 상태라면 오른쪽 상단의 Join team 버튼 클릭하여 팀 참여 요청을 보낸다.
 
 4. 해당 기업에서 나의 참여를 수락하면 아래와 같은 notifications 를 받게 된다.
+
 
 ![1233](https://user-images.githubusercontent.com/55476302/88621140-a94c0180-d0da-11ea-82d7-b9f4cf1e0bae.png)
 
