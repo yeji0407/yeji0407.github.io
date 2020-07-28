@@ -19,7 +19,7 @@ Transifex 에 참여하려면?
 [https://www.transifex.com/home/](https://www.transifex.com/home/)
 
 2. 
-https://s3.us-west-2.amazonaws.com/secure.notion-static.com/309289a3-4fdb-40a9-8656-e182267b880c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200728%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200728T030147Z&X-Amz-Expires=86400&X-Amz-Signature=5f050a715a7ec17cf7961ea12436fc694f22fc2119dddb2f093c415ac38a5ffa&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22
+![image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/309289a3-4fdb-40a9-8656-e182267b880c/Untitled.png)
 
 
 위 화면에서 Join an existing organization 클릭하여 기존 프로젝트들 보기
