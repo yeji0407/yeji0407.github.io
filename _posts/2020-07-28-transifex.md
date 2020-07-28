@@ -19,7 +19,7 @@ Transifex 에 참여하려면?
 [https://www.transifex.com/home/](https://www.transifex.com/home/)
 
 
-2. 
+2.
 
 
 ![Untitled](https://user-images.githubusercontent.com/55476302/88620485-1d85a580-d0d9-11ea-855a-fd116c8d72be.png)
@@ -43,31 +43,32 @@ Transifex 에 참여하려면?
 
 5. 해당 프로젝트로 이동한다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d2e656d-c58e-4c81-ad83-f815f93c4e46/.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d2e656d-c58e-4c81-ad83-f815f93c4e46/.png)
+![77](https://user-images.githubusercontent.com/55476302/88621653-fc728400-d0db-11ea-92c1-1cb653d9e1e0.png)
 
 6. 아래는 해당 프로젝트의 Dashboard이다. 작업할 하위 프로젝트를 찾는다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1500417a-4523-46e4-bd41-ed7497e8954c/3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1500417a-4523-46e4-bd41-ed7497e8954c/3.png)
+![3](https://user-images.githubusercontent.com/55476302/88621724-288e0500-d0dc-11ea-9501-ee4c4a4d7559.png)
+
 
 7. 'Ask me always' 를 '언제든지 물어보세요' 로 변경하기 위해 Save Translation 버튼을 누른 후 모습
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1d09a052-6dfc-456b-92e8-575cda635474/4.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1d09a052-6dfc-456b-92e8-575cda635474/4.png)
+![4](https://user-images.githubusercontent.com/55476302/88621723-27f56e80-d0dc-11ea-8727-180c5116a35a.png)
 
 8. 바로 반영시키지 않고 Save as Suggestion 버튼을 눌러 의견 제시만 할 수도 있다. 그러면 오른쪽 의견 제시 칸에만 추가된다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7434f720-723d-404a-9978-f7f3809e0817/5.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7434f720-723d-404a-9978-f7f3809e0817/5.png)
+![5](https://user-images.githubusercontent.com/55476302/88621722-275cd800-d0dc-11ea-9c5e-d76b36d24103.png)
 
 9. 아래와 같이 untranslated 를 찾아 번역 작업을 진행한다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5884243d-c525-4d93-ad73-9ffb815210d6/6.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5884243d-c525-4d93-ad73-9ffb815210d6/6.png)
+![6](https://user-images.githubusercontent.com/55476302/88621718-26c44180-d0dc-11ea-9149-77bec57643f2.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c5a512b5-9947-4620-99f6-38d04d5ac1da/_untranslated.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c5a512b5-9947-4620-99f6-38d04d5ac1da/_untranslated.png)
+![_untranslated](https://user-images.githubusercontent.com/55476302/88621907-86225180-d0dc-11ea-934b-92cc9052d78e.png
 
 9. 오른쪽 섹션의 History 를 클릭하여 번역 제안의 기록을 열람할 수 있다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f4fe704c-f746-4015-b637-fb21db87f9d5/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f4fe704c-f746-4015-b637-fb21db87f9d5/Untitled.png)
+![Untitled (2)](https://user-images.githubusercontent.com/55476302/88621951-9fc39900-d0dc-11ea-87d7-faa253018914.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fe0b10e4-5ef7-471b-a79b-5952bec34437/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fe0b10e4-5ef7-471b-a79b-5952bec34437/Untitled.png)
+![Untitled (3)](https://user-images.githubusercontent.com/55476302/88621950-9f2b0280-d0dc-11ea-90da-b297fcad1bde.png)
 
 Glossary 는 단어장으로, 원문에 단어장에 포함된 단어가 있으면 표시한다.
 
@@ -85,7 +86,7 @@ transifex 에서 해당 프로젝트를 watch하고 notification 을 확인해 �
 
 아래는 팀 멤버에게 다음 릴리즈의 일정을 물어본 모습이다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/701efbb0-1ccc-45d5-a8e3-673d43c2bcab/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/701efbb0-1ccc-45d5-a8e3-673d43c2bcab/Untitled.png)
+![Untitled (4)](https://user-images.githubusercontent.com/55476302/88621946-9df9d580-d0dc-11ea-9087-f3e1fa388da0.png)
 
 참고 링크
 
