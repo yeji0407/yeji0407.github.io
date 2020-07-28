@@ -2,7 +2,7 @@ remote_theme : huangyz0918/moving
 title: Moving # The title of the blog
 author: Your Name # Your name 
 email: your-email@domain.com # your email shown in the footer
-url: http://yeji0407.github.io # this is your site's root address.
+url: https://yeji0407.github.io # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
   A clean and minimalist theme for Jekyll.
 favicon: "./favicon.ico" # set the favicon of the site 
