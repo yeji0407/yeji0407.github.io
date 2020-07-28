@@ -11,16 +11,16 @@ Transifex 란?
 
 여러 기업에서 진행중인 프로젝트의 현지화 작업에 참여할 수 있다.
 
-
+<br/><br/><br/><br/>
 Transifex 에 참여하려면?
-
+<br/>
 1. Transifex 사이트에 가입을 한다.
 
 아래는 Transifex 사이트
 
 [https://www.transifex.com/home/](https://www.transifex.com/home/)
 
-
+<br/>
 2.
 
 
@@ -29,7 +29,7 @@ Transifex 에 참여하려면?
 
 위 화면에서 Join an existing organization 클릭하여 기존 프로젝트들 보기
 
-
+<br/>
 3.
 
 
@@ -39,39 +39,39 @@ Transifex 에 참여하려면?
 
 내가 번역하고 싶은 언어가 미완료 상태라면 오른쪽 상단의 Join team 버튼 클릭하여 팀 참여 요청을 보낸다.
 
-
+<br/>
 4. 해당 기업에서 나의 참여를 수락하면 아래와 같은 notifications 를 받게 된다.
 
 ![1233](https://user-images.githubusercontent.com/55476302/88621140-a94c0180-d0da-11ea-82d7-b9f4cf1e0bae.png)
 
-
+<br/>
 5. 해당 프로젝트로 이동한다.
 
 ![77](https://user-images.githubusercontent.com/55476302/88621653-fc728400-d0db-11ea-92c1-1cb653d9e1e0.png)
 
-
+<br/>
 6. 아래는 해당 프로젝트의 Dashboard이다. 작업할 하위 프로젝트를 찾는다.
 
 ![3](https://user-images.githubusercontent.com/55476302/88621724-288e0500-d0dc-11ea-9501-ee4c4a4d7559.png)
 
-
+<br/>
 7. 'Ask me always' 를 '언제든지 물어보세요' 로 변경하기 위해 Save Translation 버튼을 누른 후 모습
 
 ![4](https://user-images.githubusercontent.com/55476302/88621723-27f56e80-d0dc-11ea-8727-180c5116a35a.png)
 
-
+<br/>
 8. 바로 반영시키지 않고 Save as Suggestion 버튼을 눌러 의견 제시만 할 수도 있다. 그러면 오른쪽 의견 제시 칸에만 추가된다.
 
 ![5](https://user-images.githubusercontent.com/55476302/88621722-275cd800-d0dc-11ea-9c5e-d76b36d24103.png)
 
-
+<br/>
 9. 아래와 같이 untranslated 를 찾아 번역 작업을 진행한다.
 
 ![6](https://user-images.githubusercontent.com/55476302/88621718-26c44180-d0dc-11ea-9149-77bec57643f2.png)
 
 ![_untranslated](https://user-images.githubusercontent.com/55476302/88621907-86225180-d0dc-11ea-934b-92cc9052d78e.png)
 
-
+<br/>
 10. 오른쪽 섹션의 History 를 클릭하여 번역 제안의 기록을 열람할 수 있다.
 
 ![Untitled (2)](https://user-images.githubusercontent.com/55476302/88621951-9fc39900-d0dc-11ea-87d7-faa253018914.png)
@@ -97,11 +97,4 @@ transifex 에서 해당 프로젝트를 watch하고 notification 을 확인해 �
 
 
 ![Untitled (4)](https://user-images.githubusercontent.com/55476302/88621946-9df9d580-d0dc-11ea-9087-f3e1fa388da0.png)
-
-
 <br/><br/><br/><br/>
-참고 링크
-
-
-[https://docs.google.com/document/d/15yg--myG9vTC2d5fl21iwLLOQduF0cCr7Gy9iSeFfF0/edit](https://docs.google.com/document/d/15yg--myG9vTC2d5fl21iwLLOQduF0cCr7Gy9iSeFfF0/edit)
-<br/><br/>
